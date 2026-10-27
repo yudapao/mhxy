@@ -1,0 +1,5 @@
+# Standalone macOS Python controller; Windows support is outside this helper.
+PyAutoGUI>=0.9.54
+Pillow>=10
+pyobjc-framework-Cocoa>=10; sys_platform == "darwin"
+pyobjc-framework-Quartz>=10; sys_platform == "darwin"

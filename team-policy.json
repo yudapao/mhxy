@@ -1,0 +1,9 @@
+{
+  "allowed_leader": {
+    "name": "秋风知我意",
+    "role_id": "342281445"
+  },
+  "require_name_and_role_id_match": true,
+  "allow_random_match": false,
+  "repeat_pending_application": false
+}
